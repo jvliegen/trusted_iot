@@ -2,8 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Trusted IoT"
 theme = 'huguette'
+publishDir = "docs"
 
 [params]
   css = true
-
-  
