@@ -1,6 +1,12 @@
-baseURL = "https://jvliegen.github.io/trusted_iot_website/"
 languageCode = "en-us"
 title = "Trusted IoT"
+
+baseURL = "https://jvliegen.github.io/trusted_iot_website/"
+# fix for subdir baseurl, see https://discourse.gohugo.io/t/issue-when-baseurl-have-subdirectory/4088/7
+RelativeURLs=true
+CanonifyURLs=true
+
+
 theme = 'huguette'
 publishDir = "docs"
 
