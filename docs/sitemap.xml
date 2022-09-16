@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/usergroup/</loc>
+    <loc>https://jvliegen.github.io/trusted_iot_website/usergroup/</loc>
     <lastmod>2022-09-16T22:39:01+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/partners/</loc>
+    <loc>https://jvliegen.github.io/trusted_iot_website/partners/</loc>
     <lastmod>2022-09-16T22:21:27+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://jvliegen.github.io/trusted_iot_website/</loc>
     <lastmod>2022-09-16T22:02:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jvliegen.github.io/trusted_iot_website/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jvliegen.github.io/trusted_iot_website/tags/</loc>
   </url>
   
 </urlset>

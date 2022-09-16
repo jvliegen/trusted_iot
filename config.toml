@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://jvliegen.github.io/trusted_iot_website/"
 languageCode = "en-us"
 title = "Trusted IoT"
 theme = 'huguette'
