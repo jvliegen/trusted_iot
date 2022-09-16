@@ -380,3 +380,18 @@ p>select { padding: 0;      margin: 0 .5em; }
 	.noprint, body>nav, section:after { display: none; }
 	.row { flex-direction: row; }
 }
+
+/* added by vljo */
+
+div.multiHcolumn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+div.multiHcolumn div.column{
+    flex-basis: 0;
+    flex-grow: 1;
+    margin: 10px 10px;
+}

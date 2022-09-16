@@ -4,7 +4,8 @@ date: 2022-09-16T22:02:58+02:00
 header: true
 ---
 
-Trusted IoT is a research project, funded by [CORNET (COllective Research NETworking)](https://cornet.online/EN/Home/Home_node.html).
+Trusted IoT is a research project, funded by [CORNET (COllective Research NETworking)](https://cornet.online/EN/Home/Home_node.html). The project started on September 1{{< sup "st" >}}, 2022 and will span over 24 months.
+
 
 
 ## Abstract
@@ -15,7 +16,12 @@ While big corporations spend billions of dollars for the **security** of their s
 
 As the old adage goes: **A chain is no stronger than its weakest link**. This also holds for IoT devices. Therefore it is of utmost importance that all devices provide a decent level of protection against cyber criminals. In the TrustedIoT project, we will focus on the hardware aspect of the security and develop and demonstrate ‘best practices for hardware-based security modules’. We will explore and compare existing solutions, considering commercially available modules as well as architectures proposed in academia. We will identify the shortcomings of these solutions for resource-constrained IoT devices and we will follow a bottom-up approach to build a trusted computing architecture (i.e., hybrid architecture) that overcomes these shortcomings. 
 
-We will demonstrate our findings based on **five use cases** that focus on: environmental sensing, Industrial IoT, Unmanned Aerial Vehicles, mobile and cooperative robots.
+We will demonstrate our findings based on **five use cases** that focus on: 
+
+* environmental sensing
+* Industrial IoT
+* Unmanned Aerial Vehicles
+* mobile and cooperative robots.
 
 
 
