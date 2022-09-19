@@ -9,15 +9,15 @@ In Trusted IoT, the research is conducted by 5 parters from Belgium and Germany.
 
 ## Belgian Partners
 
-
 {{< multiHcolumn >}}
 {{% column %}}
+
 #### Vrije Universiteit Brussel (VUB)
-*Name of research group*
+[Name of research group](https://www.vub.be)
 
-An Braeken
+*An Braeken*
 
-https://www.vub.be
+![VUB](/images/logo_vub.png)
 {{% /column %}}
 
 {{% column %}}
@@ -25,10 +25,9 @@ https://www.vub.be
 
 [Emerging technologies, systems and security](https://iiw.kuleuven.be/onderzoek/ess)
 
-Nele Mentens
+*Nele Mentens*
 
-[KU Leuven](https://www.kuleuven.be/english/kuleuven/index.html)
-
+![KU Leuven](/images/logo_kuleuven.png)
 
 {{% /column %}}
 {{% /multiHcolumn %}}
@@ -41,21 +40,20 @@ Nele Mentens
 {{< multiHcolumn >}}
 {{% column %}}
 #### Brandenburg University of Technology Cottbus-Senftenberg
-*Name of research group*
+[Fachgebiet Technische Informatik](https://www.b-tu.de/fg-technische-informatik)
 
-Marc Reichenbach
+*Marc Reichenbach*
 
-https://www.b-tu.de/
+![BTU](/images/logo_btu.png)
 {{% /column %}}
 
 {{% column %}}
-####  Technische Universität Dresden, Faculty of Computer Science, Chair of Adaptive Dynamic systems
+####  Technische Universität Dresden
+[Adaptive Dynamic systems](https://tu-dresden.de/ing/informatik/ti/ads)
 
-*Name of research group*
+*Diana Göhringer*
 
-Diana Göhringer
-
-https://tu-dresden.de/ing/informatik/ti/ads
+![TUD](/images/logo_tud.png)
 
 {{% /column %}}
 {{% /multiHcolumn %}}
@@ -64,6 +62,6 @@ https://tu-dresden.de/ing/informatik/ti/ads
 
 #### Gesellschaft zur Foerderung angewandter Informatik e.V.
 
-www.gfai.de
+![Gfai](/images/logo_gfai.png)
 
 Frank Püschel
