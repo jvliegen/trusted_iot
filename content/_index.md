@@ -6,6 +6,9 @@ header: true
 
 Trusted IoT is a research project, funded by [CORNET (COllective Research NETworking)](https://cornet.online/EN/Home/Home_node.html). The project started on September 1{{< sup "st" >}}, 2022 and will span over 24 months.
 
+<center>
+<img src="./images/logo_cornet.png">
+</center>
 
 
 ## Abstract
