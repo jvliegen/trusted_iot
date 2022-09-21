@@ -12,3 +12,8 @@ publishDir = "docs"
 
 [params]
   css = true
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+[blackfriday]
+  hrefTargetBlank = true

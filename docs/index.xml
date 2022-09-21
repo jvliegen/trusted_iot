@@ -12,12 +12,23 @@
     
     
     <item>
-      <title>User group</title>
-      <link>https://jvliegen.github.io/trusted_iot_website/usergroup/</link>
+      <title>Contact</title>
+      <link>https://jvliegen.github.io/trusted_iot_website/contact/</link>
+      <pubDate>Wed, 21 Sep 2022 11:52:31 +0200</pubDate>
+      
+      <guid>https://jvliegen.github.io/trusted_iot_website/contact/</guid>
+      <description>Hello, curious reader. You&amp;rsquo;ve made it this far and want to get in contact with us ? Great !!
+You can contact the project leader on: an &amp;lt;dot&amp;gt; braeken &amp;lt;at&amp;gt;vub&amp;lt;dot&amp;gt;be</description>
+    </item>
+    
+    <item>
+      <title>Planning</title>
+      <link>https://jvliegen.github.io/trusted_iot_website/planning/</link>
       <pubDate>Fri, 16 Sep 2022 22:39:01 +0200</pubDate>
       
-      <guid>https://jvliegen.github.io/trusted_iot_website/usergroup/</guid>
-      <description>The user group consists of &amp;hellip;</description>
+      <guid>https://jvliegen.github.io/trusted_iot_website/planning/</guid>
+      <description>A Gantt-chart of the planning in Trusted IoT can be seen below. The project started on September 1st, 2022.
+WP 1: Project Management  D 1.1 (M1): Reports of Meetings and Discussions  WP 2: Exploration, Specification &amp;amp; Requirements study WP 3: Platform-specific security solutions WP 4: Industrial Use Case Demonstration WP 5: Dissemination and Exploitation  M 5.1 (M3): Kick-off meeting + project website  the kick-off meeting took place on Septebmer 15, 2022 in Brussels.</description>
     </item>
     
     <item>
