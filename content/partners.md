@@ -64,4 +64,4 @@ In Trusted IoT, the research is conducted by 5 parters from Belgium and Germany.
 
 ![Gfai](/images/logo_gfai.png)
 
-Frank Püschel
+*Gesellschaft zur Förderung angewandter Informatik e.V.*
