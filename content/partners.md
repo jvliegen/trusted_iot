@@ -15,7 +15,7 @@ In Trusted IoT, the research is conducted by 5 parters from Belgium and Germany.
 #### Vrije Universiteit Brussel (VUB)
 [Name of research group](https://www.vub.be)
 
-*An Braeken*
+<i><u>An Braeken</u>, Laurent Segers, Bruno da Silva, and Abdellah Touhafi</i>
 
 ![VUB](/images/logo_vub.png)
 {{% /column %}}
@@ -23,9 +23,9 @@ In Trusted IoT, the research is conducted by 5 parters from Belgium and Germany.
 {{% column %}}
 ####  KU Leuven
 
-[Emerging technologies, systems and security](https://iiw.kuleuven.be/onderzoek/ess)
+[Emerging technologies, Systems and Security (ES&S)](https://iiw.kuleuven.be/onderzoek/ess)
 
-*Nele Mentens*
+<i><u>Nele Mentens</u>, Masoom Rabbani and Jo Vliegen</i>
 
 ![KU Leuven](/images/logo_kuleuven.png)
 
@@ -42,7 +42,7 @@ In Trusted IoT, the research is conducted by 5 parters from Belgium and Germany.
 #### Brandenburg University of Technology Cottbus-Senftenberg
 [Fachgebiet Technische Informatik](https://www.b-tu.de/fg-technische-informatik)
 
-*Marc Reichenbach*
+<i><u>Marc Reichenbach</u> and Safdar Mahmood</i>
 
 ![BTU](/images/logo_btu.png)
 {{% /column %}}
@@ -51,7 +51,7 @@ In Trusted IoT, the research is conducted by 5 parters from Belgium and Germany.
 ####  Technische Universität Dresden
 [Adaptive Dynamic systems](https://tu-dresden.de/ing/informatik/ti/ads)
 
-*Diana Göhringer*
+<i><u>Diana Göhringer</u> and Sergio Pertuz</i>
 
 ![TUD](/images/logo_tud.png)
 
@@ -60,8 +60,13 @@ In Trusted IoT, the research is conducted by 5 parters from Belgium and Germany.
 
 
 
-#### Gesellschaft zur Foerderung angewandter Informatik e.V.
+#### Gesellschaft zur Förderung angewandter Informatik e.V.
+[Department: Image Processing Industrial Application](https://www.gfai.de/forschung/bereiche/bildverarbeitung-industrielle-anwendungen)
 
 ![Gfai](/images/logo_gfai.png)
 
-*Gesellschaft zur Förderung angewandter Informatik e.V.*
+<i><u>Immanuel Rettig</u>, Miriam Schneider, and Benjamin Hohnhäuser</i>
+
+<!-- bakalova@gfai.de
+drost@gfai.de
+pueschel@gfai.de -->
