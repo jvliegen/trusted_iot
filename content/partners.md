@@ -33,8 +33,6 @@ In Trusted IoT, the research is conducted by 5 parters from Belgium and Germany.
 {{% /multiHcolumn %}}
 
 
-
-
 ## German Partners
 
 {{< multiHcolumn >}}
