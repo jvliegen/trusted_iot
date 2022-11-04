@@ -63,7 +63,7 @@ In Trusted IoT, the research is conducted by 5 parters from Belgium and Germany.
 
 ![Gfai](/images/logo_gfai.png)
 
-<i><u>Immanuel Rettig</u>, Miriam Schneider, and Benjamin Hohnhäuser</i>
+<i><u>Immanuel Rettig</u>, Miriam Schneider, and Benjamin Drost</i>
 
 <!-- bakalova@gfai.de
 drost@gfai.de
