@@ -47,5 +47,14 @@ Marc Reichenbach and Safdar Mahmood
  Technische Universität Dresden Adaptive Dynamic systems</description>
     </item>
     
+    <item>
+      <title>Downloads</title>
+      <link>https://jvliegen.github.io/trusted_iot_website/downloads/</link>
+      <pubDate>Thu, 01 Sep 2022 11:52:31 +0200</pubDate>
+      
+      <guid>https://jvliegen.github.io/trusted_iot_website/downloads/</guid>
+      <description> Files of the Kick-off meetings German meeting - December 1st 2022, ??? Belgian meeting - December 2nd 2022, Brussels  Slides of Introduction Slides of Embedded security + VUB Slides of RISC-V + KU Leuven (here) Slides of Vlaio  </description>
+    </item>
+    
   </channel>
 </rss>
