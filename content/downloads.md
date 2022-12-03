@@ -13,4 +13,3 @@ draft: false
 * Slides of **Introduction**
 * Slides of **Embedded security + VUB**
 * Slides of **RISC-V + KU Leuven** ([here](/files/KOmeeting_riscV_KULeuven.pdf))
-* Slides of **Vlaio**
