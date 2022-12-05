@@ -10,6 +10,6 @@ draft: false
 
 ### Belgian meeting - December 2nd 2022, Brussels
 
-* Slides of **Introduction**
-* Slides of **Embedded security + VUB**
-* Slides of **RISC-V + KU Leuven** ([here](/files/KOmeeting_riscV_KULeuven.pdf))
+* Slides of **Introduction** ([here](/files/20221202_KickOff_be_companies.pdf))
+* Slides of **Embedded security + VUB use case** ([here](/files/20221202_KickOff_be_embedded_security_intro.pdf), and [here](/files/20221202_KickOff_be_VUB_usecase.pdf))
+* Slides of **RISC-V + KU Leuven use case** ([here](/files/20221202_KickOff_be_riscV_KULeuven.pdf))
