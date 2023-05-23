@@ -16,7 +16,7 @@ draft: false
 
 ## Deliverables in WP2
 
-* D2.1 (**M3**): Requirements Specification for the Use Cases. ([pdf]([here](/files/D2.1.pdf)))
+* D2.1 (**M3**): Requirements Specification for the Use Cases. ([pdf](/files/D2.1.pdf))
   * This deliverable contains the technical, functional and security related requirements for each use case. 
-* D2.2 (**M3**): Specification of the Architectural Framework. ([pdf]([here](/files/D2.2.pdf)))
+* D2.2 (**M3**): Specification of the Architectural Framework. ([pdf](/files/D2.2.pdf))
   * This deliverable includes the overall framework architecture to define the different components, which meet these requirements and define the intercommunication among these components in order to address all the requirements in an integrated way.
