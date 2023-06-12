@@ -14,6 +14,17 @@ draft: false
 * Slides of **Embedded security + VUB use cases** ([here](https://drive.google.com/file/d/1bR_2ccLJKqk6At2k24mZJ5h0xkT8KQxw/view?usp=sharing), and [here](https://drive.google.com/file/d/1lLBSLq3RFJHH_QTMVKcr5lxZY7ABcSsj/view?usp=sharing))
 * Slides of **RISC-V + KU Leuven use case** ([here](https://drive.google.com/file/d/1nRFGxTXrDSFfqcF61XHlo8_lX40RcPXz/view?usp=sharing))
 
+## Files of the Intermediate User Group meetings
+
+#### German meeting - June 20th 2023, Dresden
+
+#### Belgian meeting - June 9th 2023, Diepenbeek
+
+* Slides of **General presentation** (slides [pdf](/files/D1.1_M6_01_IntermediateUsergroupMeetingJune2023.pdf))
+* Slides of **Progress VUB** (slides [pdf](/files/D1.1_M6_02_IntermediateUsergroupMeetingJune2023_VUB.pdf))
+* Slides of **KU Leuven** (slides [here](/files/D1.1_M6_03_IntermediateUsergroupMeetingJune2023_KULeuven.pdf), video of demonstrator [here](https://youtu.be/yAUuDEiOQ7M))
+
+
 ## Deliverables in WP2
 
 * D2.1 (**M3**): Requirements Specification for the Use Cases. ([pdf](/files/D2.1.pdf))
