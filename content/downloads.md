@@ -23,7 +23,7 @@ draft: false
 * Slides of **General presentation** (slides [pdf](/files/D1_1_M6_01_IntermediateUsergroupMeetingJune2023.pdf))
 * Slides of **Progress VUB** (slides [pdf](/files/D1_1_M6_02_IntermediateUsergroupMeetingJune2023_VUB.pdf))
 * Slides of **KU Leuven** (slides [here](/files/D1_1_M6_03_IntermediateUsergroupMeetingJune2023_KULeuven.pdf), video of demonstrator [here](https://youtu.be/yAUuDEiOQ7M))
-* Meeting minutes ([pdf](/files/D1_1_M))
+* Meeting minutes ([pdf](/files/D1_1_M6_03_meeting_minutes.pdf))
 
 
 ## Deliverables in WP2
