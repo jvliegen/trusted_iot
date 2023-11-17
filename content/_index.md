@@ -26,5 +26,7 @@ We will demonstrate our findings based on **five use cases** that focus on:
 * Unmanned Aerial Vehicles
 * mobile and cooperative robots.
 
+## Contact
 
+You can contact the project leader on: an &lt;dot> braeken &lt;at>vub&lt;dot>be
 

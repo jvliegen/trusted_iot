@@ -37,13 +37,14 @@ In Trusted IoT, the research is conducted by 5 parters from Belgium and Germany.
 
 {{< multiHcolumn >}}
 {{% column %}}
-#### Brandenburg University of Technology Cottbus-Senftenberg
-[Fachgebiet Technische Informatik](https://www.b-tu.de/fg-technische-informatik)
+#### Universität Rostock
+[Forschungsgebiete Integrierte Systeme](#)
 
-<i><u>Marc Reichenbach</u> and Safdar Mahmood</i>
+<i><u>Marc Reichenbach</u> and Johannes Knödtel</i>
 
-![BTU](/images/logo_btu.png)
+![BTU](/images/logo_uor.png)
 {{% /column %}}
+
 
 {{% column %}}
 ####  Technische Universität Dresden
