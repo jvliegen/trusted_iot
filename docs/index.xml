@@ -6,19 +6,14 @@
     <description>Recent content on Trusted IoT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Sep 2022 22:02:58 +0200</lastBuildDate>
-    
-	<atom:link href="https://jvliegen.github.io/trusted_iot_website/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 16 Sep 2022 22:02:58 +0200</lastBuildDate><atom:link href="https://jvliegen.github.io/trusted_iot_website/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
-      <link>https://jvliegen.github.io/trusted_iot_website/contact/</link>
-      <pubDate>Wed, 21 Sep 2022 11:52:31 +0200</pubDate>
+      <title>Deliverables</title>
+      <link>https://jvliegen.github.io/trusted_iot_website/deliverables/</link>
+      <pubDate>Thu, 16 Nov 2023 11:52:31 +0200</pubDate>
       
-      <guid>https://jvliegen.github.io/trusted_iot_website/contact/</guid>
-      <description>Hello, curious reader. You&amp;rsquo;ve made it this far and want to get in contact with us ? Great !!
-You can contact the project leader on: an &amp;lt;dot&amp;gt; braeken &amp;lt;at&amp;gt;vub&amp;lt;dot&amp;gt;be</description>
+      <guid>https://jvliegen.github.io/trusted_iot_website/deliverables/</guid>
+      <description>Deliverables in WP1 D1.1 (M6, M12, M18, M24): Reports of Meetings and Discussions. Deliverables in WP2 D2.1 (M3): Requirements Specification for the Use Cases. (pdf) This deliverable contains the technical, functional and security related requirements for each use case. D2.2 (M3): Specification of the Architectural Framework. (pdf) This deliverable includes the overall framework architecture to define the different components, which meet these requirements and define the intercommunication among these components in order to address all the requirements in an integrated way.</description>
     </item>
     
     <item>
@@ -28,7 +23,7 @@ You can contact the project leader on: an &amp;lt;dot&amp;gt; braeken &amp;lt;at
       
       <guid>https://jvliegen.github.io/trusted_iot_website/planning/</guid>
       <description>A Gantt-chart of the planning in Trusted IoT can be seen below. The project started on September 1st, 2022.
-WP 1: Project Management  D 1.1 (M1): Reports of Meetings and Discussions  WP 2: Exploration, Specification &amp;amp; Requirements study WP 3: Platform-specific security solutions WP 4: Industrial Use Case Demonstration WP 5: Dissemination and Exploitation  M 5.1 (M3): Kick-off meeting + project website  the kick-off meeting took place on Septebmer 15, 2022 in Brussels.</description>
+WP 1: Project Management D 1.1 (M1): Reports of Meetings and Discussions WP 2: Exploration, Specification &amp;amp; Requirements study WP 3: Platform-specific security solutions WP 4: Industrial Use Case Demonstration WP 5: Dissemination and Exploitation M 5.1 (M3): Kick-off meeting + project website the kick-off meeting took place on Septebmer 15, 2022 in Brussels.</description>
     </item>
     
     <item>
@@ -40,20 +35,21 @@ WP 1: Project Management  D 1.1 (M1): Reports of Meetings and Discussions  WP 2:
       <description>In Trusted IoT, the research is conducted by 5 parters from Belgium and Germany.
 Belgian Partners Vrije Universiteit Brussel (VUB) Name of research group
 An Braeken, Laurent Segers, Bruno da Silva, and Abdellah Touhafi
- KU Leuven Emerging technologies, Systems and Security (ES&amp;amp;S)
+KU Leuven Emerging technologies, Systems and Security (ES&amp;amp;S)
 Nele Mentens, Masoom Rabbani and Jo Vliegen
-  German Partners Brandenburg University of Technology Cottbus-Senftenberg Fachgebiet Technische Informatik
-Marc Reichenbach and Safdar Mahmood
- Technische Universität Dresden Adaptive Dynamic systems</description>
+German Partners Universität Rostock Forschungsgebiete Integrierte Systeme
+Marc Reichenbach and Johannes Knödtel
+Technische Universität Dresden Adaptive Dynamic systems
+Diana Göhringer and Sergio Pertuz</description>
     </item>
     
     <item>
-      <title>Downloads</title>
-      <link>https://jvliegen.github.io/trusted_iot_website/downloads/</link>
+      <title>Presentations</title>
+      <link>https://jvliegen.github.io/trusted_iot_website/presentations/</link>
       <pubDate>Thu, 01 Sep 2022 11:52:31 +0200</pubDate>
       
-      <guid>https://jvliegen.github.io/trusted_iot_website/downloads/</guid>
-      <description>Files of the Kick-off meetings German meeting - December 1st 2022, ??? Belgian meeting - December 2nd 2022, Brussels  Slides of Introduction (here) Slides of Embedded security + VUB use cases (here, and here) Slides of RISC-V + KU Leuven use case (here)  Files of the Intermediate User Group meetings German meeting - June 20th 2023, Dresden Belgian meeting - June 9th 2023, Diepenbeek  Slides of General presentation (slides pdf) Slides of Progress VUB (slides pdf) Slides of KU Leuven (slides here, video of demonstrator here) Meeting minutes (pdf)  Deliverables in WP2  D2.</description>
+      <guid>https://jvliegen.github.io/trusted_iot_website/presentations/</guid>
+      <description>the Dissemination event - IIoTSBOM - November 16th 2023, Leuven Slides of TUD (slides pdf) Slides of UOR (slides pdf) Slides of GFai (slides pdf) Slides of KUL (slides pdf) Slides of VUB (slides pdf) the Intermediate User Group meetings German meeting - June 20th 2023, Dresden Belgian meeting - June 9th 2023, Diepenbeek Slides of General presentation (slides pdf) Slides of Progress VUB (slides pdf) Slides of KU Leuven (slides pdf, video of demonstrator youtube) Meeting minutes (pdf) the Kick-off meetings German meeting - December 1st 2022, ?</description>
     </item>
     
   </channel>
