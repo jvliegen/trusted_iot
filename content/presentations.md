@@ -4,6 +4,17 @@ date: 2022-09-01T11:52:31+02:00
 draft: false
 ---
 
+## the seconds Intermediate User Group meetings
+
+#### German meeting - April 16th 2024, Rostock (hybrid)
+
+#### Belgian meeting - April 17th 2024, Brussels (hybrid)
+* Slides of **General presentation** (slides [pdf](/files/D1_1_M18_00_general.pdf))
+* Slides of **ARC presentation** (slides [pdf](/files/D1_1_M18_01_ARC.pdf))
+* Slides of **Progress VUB** (slides [pdf](/files/D1_1_M18_02_VUB.pdf))
+* Slides of **KU Leuven** (slides [pdf](/files/D1_1_M6_03_IntermediateUsergroupMeetingJune2023_KULeuven.pdf), video of demonstrator [youtube](https://youtu.be/b1JF19ZW8iA))
+* Meeting minutes ([pdf](/files/D1_1_M18_04_minutes.pdf))
+
 ## the Dissemination event - IIoTSBOM - November 16th 2023, Leuven
 
 * Slides of **TUD** (slides [pdf](/files/Year1Workshop_TUD.pdf))
@@ -13,7 +24,7 @@ draft: false
 * Slides of **VUB** (slides [pdf](/files/Year1Workshop_VUB.pdf))
 
  
-## the Intermediate User Group meetings
+## the first Intermediate User Group meetings
 
 #### German meeting - June 20th 2023, Dresden
 
