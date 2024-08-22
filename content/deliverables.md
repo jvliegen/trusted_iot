@@ -18,7 +18,7 @@ draft: false
 
 ## Deliverables in WP3
 
-* D3.1 (**M20**): This deliverable describes the specification of the platform and the corresponding specific solutions to be used or to be additionally implemented for each of the use cases, based on a comparison of the current state-of-the art available technology.
+* D3.1 (**M20**): This deliverable describes the specification of the platform and the corresponding specific solutions to be used or to be additionally implemented for each of the use cases, based on a comparison of the current state-of-the art available technology. ([pdf](/files/D3.1.pdf))
 
 
 ## Deliverables in WP4
@@ -27,6 +27,6 @@ draft: false
 
 ## Deliverables in WP5
 
-* D5.1 (**M12**): A report on the dissemination, communication and exploitation activities will be made in M12.
+* D5.1 (**M12**): A report on the dissemination, communication and exploitation activities will be made in M12. ([pdf](/files/D5.1.pdf))
 * D5.2 (**M24**): A report on the dissemination, communication and exploitation activities will be made in M24.
 
