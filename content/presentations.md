@@ -4,7 +4,15 @@ date: 2022-09-01T11:52:31+02:00
 draft: false
 ---
 
-## the seconds Intermediate User Group meetings
+## Closing meeting ([invite](/files/invite.pdf))
+#### August 29th 2024, Berlin (hybrid)
+* Slides of **KU Leuven** (slides [pdf](/files/Year2_KUL.pdf))<!--, video of demonstrator [youtube](https://youtu.be/b1JF19ZW8iA)) -->
+<!-- * Slides of **VUB** (slides_part_1 [pdf](/files/Year2_VUB_part1.pdf), slides_part_2 [pdf](/files/Year2_VUB_part2.pdf)) -->
+<!-- * Slides of **TUD** (slides [pdf](/files/Year2_KUL.pdf) -->
+<!-- * Slides of **GFaI** (slides [pdf](/files/Year2_KUL.pdf) -->
+<!-- * Slides of **URo** (slides [pdf](/files/Year2_KUL.pdf) -->
+
+## The seconds Intermediate User Group meetings
 
 #### Belgian meeting - April 17th 2024, Brussels (hybrid)
 * Slides of **General presentation** (slides [pdf](/files/D1_1_M18_00_general.pdf))
@@ -18,7 +26,7 @@ draft: false
 * Slides of **Progress TUD** (slides [pdf](/files/D1_1_M18_05_TUD.pdf))
 * Slides of **Progress URO** (slides [pdf](/files/D1_1_M18_06_URO.pdf))
 
-## the Dissemination event - IIoTSBOM - November 16th 2023, Leuven
+## The Dissemination event - IIoTSBOM - November 16th 2023, Leuven
 
 * Slides of **TUD** (slides [pdf](/files/Year1Workshop_TUD.pdf))
 * Slides of **UOR** (slides [pdf](/files/Year1Workshop_ROSTOCK.pdf))
@@ -27,7 +35,7 @@ draft: false
 * Slides of **VUB** (slides [pdf](/files/Year1Workshop_VUB.pdf))
 
  
-## the first Intermediate User Group meetings
+## The first Intermediate User Group meetings
 
 #### German meeting - June 20th 2023, Dresden
 
@@ -40,9 +48,9 @@ draft: false
 
 
 
-## the Kick-off meetings
+## The Kick-off meetings
 
-#### German meeting - December 1st 2022, ???
+#### German meeting - December 1st 2022, Berlin
 
 #### Belgian meeting - December 2nd 2022, Brussels
 
