@@ -7,8 +7,8 @@ draft: false
 ## Closing meeting ([invite](/files/invite.pdf))
 #### August 29th 2024, Berlin (hybrid)
 * Slides of **KU Leuven** (slides [pdf](/files/Year2_KUL.pdf))<!--, video of demonstrator [youtube](https://youtu.be/b1JF19ZW8iA)) -->
- * Slides of **VUB** (slides [pdf](/files/Year2_VUB.pdf))
-<!-- * Slides of **TUD** (slides [pdf](/files/Year2_KUL.pdf) -->
+* Slides of **VUB** (slides [pdf](/files/Year2_VUB.pdf))
+* Slides of **TUD** (slides [pdf](/files/Year2_TUD.pdf)
 <!-- * Slides of **GFaI** (slides [pdf](/files/Year2_KUL.pdf) -->
 <!-- * Slides of **URo** (slides [pdf](/files/Year2_KUL.pdf) -->
 
