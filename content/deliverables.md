@@ -23,7 +23,7 @@ draft: false
 
 ## Deliverables in WP4
 
-* D4.1 (**M24**): This deliverable includes a report and manual describing the implementation details and challenges of each of the use cases, including evaluation.
+* D4.1 (**M24**): This deliverable includes a report and manual describing the implementation details and challenges of each of the use cases, including evaluation. ([pdf](/files/D4.1.pdf))
 
 ## Deliverables in WP5
 
