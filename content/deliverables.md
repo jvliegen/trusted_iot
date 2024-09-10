@@ -28,5 +28,5 @@ draft: false
 ## Deliverables in WP5
 
 * D5.1 (**M12**): A report on the dissemination, communication and exploitation activities will be made in M12. ([pdf](/files/D5.1.pdf))
-* D5.2 (**M24**): A report on the dissemination, communication and exploitation activities will be made in M24.
+* D5.2 (**M24**): A report on the dissemination, communication and exploitation activities will be made in M24. ([pdf](/files/D5.2.pdf))
 
